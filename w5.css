@@ -1,0 +1,37 @@
+.container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  padding: 1px;
+}
+
+.container div {
+  background-color: #947FFF;
+  border: 2px solid black;
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#container2 {
+    background-color: aquamarine;
+}
+
+#container3 {
+    background-color: #7FFF94 ;
+}
+#font1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#font2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#font3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Heading {
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: aliceblue;
+}
